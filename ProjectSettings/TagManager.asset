@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Box
+  - Enemy
+  - Room
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PostProcessing
+  - Water
+  - UI
+  - Lights
+  - Collision
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 206780649
+    locked: 0
+  - name: light
+    uniqueID: 3262795935
+    locked: 0
+  - name: NonCollision
+    uniqueID: 3520727893
+    locked: 0
+  - name: Collision
+    uniqueID: 804039461
+    locked: 0
+  - name: Objects
+    uniqueID: 2429571561
+    locked: 0
+  - name: Decoration
+    uniqueID: 16649769
+    locked: 0
+  - name: Box
+    uniqueID: 961539331
+    locked: 0
+  - name: Character
+    uniqueID: 1587369239
+    locked: 0
+  - name: Over
+    uniqueID: 3194925997
+    locked: 0
